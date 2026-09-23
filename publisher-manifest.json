@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "c12e832ac17d3e7d28bffa0d",
+  "owner": "g5gxus",
+  "repo": "page-f1fc3646fde1063ad5ef7113",
+  "title": "青丝(qingsiyun)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f1fc3646fde1063ad5ef7113",
+      "a": "青丝(qingsiyun)",
+      "b": "2027最新官网",
+      "entity": "青丝(qingsiyun)",
+      "brand": "青丝(qingsiyun)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "83a78f729d53b396a231c1b3abb1a3442d154c285cc184f773a5d6371948453d",
+      "content": {
+        "primary_entity": "青丝(qingsiyun)",
+        "keyword1": "青丝(qingsiyun)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统下载对应客户端：Windows、macOS、iOS、Android 等均有可用应用，安装后导入订阅即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择与安装",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选好套餐，下载客户端配置订阅，即可开始稳定加速。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松连接",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备同时在线，适配 Windows、macOS、iOS、Android 等常用平台，按年付可享更优价格，方便个人与小型团队按需选择。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个维度挑选合适的方案。",
+          "AI_FEATURES_TITLE": "套餐核心考量",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合个人日常浏览与视频。旗舰版每月 300GB、5 台设备，增加原生流媒体解锁与 IPLC 专线。",
+          "AI_FEATURE_TEXT_2": "按年付比按月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用可优先考虑年付方案。",
+          "AI_FEATURE_TEXT_3": "根据常用设备数量选择：手机、电脑、平板合计 3 台以内选基础版，5 台以内选旗舰版，多设备或团队协作选团队版。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "年付更省费用",
+          "AI_FEATURE_TITLE_3": "按设备数选套餐",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "青丝提供多档海外加速套餐，覆盖个人到团队的不同流量与设备需求。基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并带 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付价格更优，选择对应客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "多档套餐适配个人与团队",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，满足日常使用",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，游戏加速优化",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版每月 100GB 支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并含 IPLC 专线，团队版每月 1000GB 支持 20 台设备，按年付分别仅需 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据使用场景与设备数量，在基础版、旗舰版、团队版中选择合适套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、设备上限与线路说明，确认满足日常需求。",
+          "AI_STEP_TEXT_3": "下载对应设备客户端，依照客户端文档导入订阅链接完成配置。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "青丝加速套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB、支持3台设备；旗舰版每月300GB、支持5台设备；团队版每月1000GB、支持20台设备。流量越多、并发越高，对应档位越高。",
+          "AI_FAQ_ANSWER_2": "可以。基础版按年付150元，旗舰版按年付350元，团队版按年付850元，折合每月更划算，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_3": "在对应客户端中导入订阅地址即可。不同系统客户端界面略有差异，按客户端文档或订阅页面说明操作，保持网络通畅即可。",
+          "AI_FAQ_ANSWER_4": "如果同时使用的手机、电脑、平板等设备总和超过套餐上限，需要升级到设备数更多的套餐，比如从基础版升至旗舰版或团队版。",
+          "AI_FAQ_ANSWER_5": "旗舰版配备IPLC专线并对游戏加速做优化，支持全节点原生流媒体解锁，同时提供7x24优先工单支持，适合对线路质量要求较高的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数上有什么区别？",
+          "AI_FAQ_QUESTION_2": "可以选择按年付费吗？",
+          "AI_FAQ_QUESTION_3": "如何把订阅导入客户端？",
+          "AI_FAQ_QUESTION_4": "设备数量超出套餐上限怎么办？",
+          "AI_FAQ_QUESTION_5": "旗舰版的IPLC专线和流媒体解锁有什么好处？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--mdss-3v4gm16f.com",
+    "host": "xn--mdss-3v4gm16f.com"
+  },
+  "file_hashes": {
+    "index.html": "ace82528f161a4ac37ce99c1c8205cb0698b8ddec610bcdae0c85bdb3c027085",
+    "sitemap.xml": "d4900c52fb3470a409b7e1cec302caadc1bb74a12d09c297189a5622c09fc377",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8f9e2d4bb9b5e6f68bb5fefd55c02c4e47e531cec7aa3a684837783240b870d6",
+    "robots.txt": "f00f8643e4d93bc6aee24f12fce6c871cd81ccfdc32d4e99a3779844b9cbc855",
+    "04f4db502d4a0d6143f050265dac6f27.txt": "f84fa04a169cd98dad822f23c85ebc1b27bb63e6a54eaba9dae168870367adb2"
+  },
+  "revision": "5ff833dafed1cb6fee17a53f857985ebc680e1dccf10bd7f99ea594ac59a5c84"
+}
